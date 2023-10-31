@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-**Aplicação de cadastroe e login, salva dados e funciona no login.  **
+**Aplicação de cadastro e login, salva dados e funciona no login.**
 
 ### Como instalar:
 **Baixe o apk no seu smartphone, cerifique-se de que seu smartphone está configurado para aceitar apps de terceiros, assim não terá conflitos.**
